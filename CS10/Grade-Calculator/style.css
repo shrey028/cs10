@@ -1,0 +1,15 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+  background-color: yellow;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+button:hover {
+  background-color: chartreuse;
+}
